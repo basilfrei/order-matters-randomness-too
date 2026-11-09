@@ -2,12 +2,6 @@
 __pycache__/
 *.pyc
 
-# macOS
-.DS_Store
-
-# Claude Code local settings
-.claude/settings.local.json
-
 # Generated locally by the experiment scripts, regenerate on demand
 /data/
 /results/
